@@ -1,6 +1,6 @@
 # MERN Stack Task Management System
 
-![Project Screenshot](screenshot.png)
+
 
 ## Introduction
 
